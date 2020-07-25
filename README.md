@@ -1,5 +1,7 @@
 <!-- ![dog](https://user-images.githubusercontent.com/2607019/88460912-ad113580-ceda-11ea-808e-be9166521092.png) -->
 
+[![puku0x's github stats](https://github-readme-stats.vercel.app/api?username=puku0x)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Hi there! 👋
 
 I'm a software engineer at [Vega corporation Co., Ltd.](https://www.vega-c.com/) working on core system development.
