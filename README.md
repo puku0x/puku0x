@@ -2,7 +2,9 @@
 
 ## Hi there! 👋
 
-I'm a software engineer at [Vega corporation Co., Ltd.](https://www.vega-c.com/) working on core system development. I like to develop web applications and love to contribute OSSs.
+I'm a software engineer at [Vega corporation Co., Ltd.](https://www.vega-c.com/) working on core system development.
+
+I like to develop web applications and love to contribute OSSs.
 
 <!-- ![ng-fukuoka](https://user-images.githubusercontent.com/2607019/88460860-5e639b80-ceda-11ea-81b3-71abde62bb8b.png) -->
 
