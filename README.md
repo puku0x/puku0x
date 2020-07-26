@@ -10,7 +10,7 @@ I like to develop web applications and love to contribute OSSs.
 
 [![puku0x's github stats](https://github-readme-stats.vercel.app/api?username=puku0x&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-I'm also an organizer of [ng-fukuoka](https://ng-fukuoka.angular.jp/) which is an Angular community in Fukuoka because I'm a big fan of [Angular](https://angular.io) !
+I'm also the organizer of [ng-fukuoka](https://ng-fukuoka.angular.jp/) which is a local Angular community in Fukuoka because I'm a big fan of [Angular](https://angular.io) !
 
 ## My skills
 
@@ -26,3 +26,4 @@ I'm also an organizer of [ng-fukuoka](https://ng-fukuoka.angular.jp/) which is a
 - https://github.com/puku0x
 - https://dev.to/puku0x
 - https://twitter.com/puku0x
+- https://speakerdeck.com/puku0x
