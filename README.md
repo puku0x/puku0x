@@ -2,7 +2,7 @@
 
 ## Hi there! 👋
 
-I'm a software developer at [Findy Inc.](https://findy.co.jp/) working on [Findy Teams](https://findy-teams.com/).
+I'm a software developer at [Findy Inc.](https://findy.co.jp/) working on [Findy](https://findy-code.io/) and [Findy Teams](https://findy-teams.com/).
 
 I like to develop web applications and love to contribute OSSs.
 
@@ -18,7 +18,7 @@ I'm also the organizer of [ng-fukuoka](https://ng-fukuoka.angular.jp/) which is 
 - Developing web applications with Angular / React / Vue.js
 - State management with NgRx / Redux / Vuex
 - Writing tests with Jasmine / Karma / Jest / Cypress
-- Helping fast, scalable and robust frontend architecture
+- Designing fast, scalable and robust frontend architecture
 - Building CI/CD with GitHub Actions
 
 ## Get in touch
