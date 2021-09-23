@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=puku0x&show_icons=true&count_private=true&line_height=20&count_private=true&include_all_commits=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=puku0x&show_icons=true&count_private=true&line_height=20" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puku0x&layout=compact" />
@@ -11,13 +11,13 @@
 
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img align="center" src="https://github-profile-summary-cards-beryl.vercel.app/api/cards/repos-per-language?username=puku0x" width="281px" />
+    <img align="center" src="https://github-profile-summary-cards-beryl.vercel.app/api/cards/repos-per-language?username=puku0x" width="280px" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img align="center" src="https://github-profile-summary-cards-beryl.vercel.app/api/cards/most-commit-language?username=puku0x" width="281px" />
+    <img align="center" src="https://github-profile-summary-cards-beryl.vercel.app/api/cards/most-commit-language?username=puku0x" width="280px" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img align="center" src="https://github-profile-summary-cards-beryl.vercel.app/api/cards/productive-time?username=puku0x" width="281px" />
+    <img align="center" src="https://github-profile-summary-cards-beryl.vercel.app/api/cards/productive-time?username=puku0x" width="280px" />
   </a>
 </div>
 
