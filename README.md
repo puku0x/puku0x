@@ -1,38 +1,56 @@
-<!-- ![dog](https://user-images.githubusercontent.com/2607019/88460912-ad113580-ceda-11ea-808e-be9166521092.png) -->
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=puku0x&show_icons=true&count_private=true&line_height=20&count_private=true&include_all_commits=true&hide_border=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puku0x&layout=compact&hide_border=true" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img align="center" src="https://github-profile-summary-cards-beryl.vercel.app/api/cards/repos-per-language?username=puku0x" width="281px" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img align="center" src="https://github-profile-summary-cards-beryl.vercel.app/api/cards/most-commit-language?username=puku0x" width="281px" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img align="center" src="https://github-profile-summary-cards-beryl.vercel.app/api/cards/productive-time?username=puku0x" width="281px" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=puku0x&column=8&no-frame=true&margin-w=5" />
+  </a>
+</div>
+
+---
 
 ## Hi there! 👋
 
-I'm a software developer at [Findy Inc.](https://findy.co.jp/) working on [Findy](https://findy-code.io/) and [Findy Teams](https://findy-teams.com/).
+I am a software developer at [Findy Inc.](https://findy.co.jp/) working on [Findy](https://findy-code.io/) and [Findy Teams](https://findy-teams.com/).
 
-I like to develop web frontend applications and love to contribute OSSs like [Nx](https://nx.dev/).
+I like developing web frontend applications and love to contribute to OSSs like [Nx](https://nx.dev/).
 
-<!-- ![ng-fukuoka](https://user-images.githubusercontent.com/2607019/88460860-5e639b80-ceda-11ea-81b3-71abde62bb8b.png) -->
-
-[![puku0x's github stats](https://github-readme-stats.vercel.app/api?username=puku0x&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-I'm also the organizer of [ng-fukuoka](https://ng-fukuoka.angular.jp/) which is a local Angular community in Fukuoka.
+I am a big fan of [Angular](https://angular.io/). I organize [ng-fukuoka](https://ng-fukuoka.angular.jp/) which is a local Angular community in Fukuoka.
 
 ## My skills
 
-### Languages
-
-I have basic knowledge of HTML, CSS and JavaScript. I mostly write applications in TypeScript.
-
-[![puku0x's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=puku0x&layout=compact&exclude_repo=monaca-ionic,monaca-onsenui-angularjs,ros2-starter,SimpleARwithOpenCV)](https://github.com/anuraghazra/github-readme-stats)
-
-### Frameworks / Libraries
-
-I love [Angular](https://angular.io/), however, I can build applications with React and Vue.js.
-
-- Angular + NgRx
-https://github.com/puku0x/todo-angular
-- React + Redux Toolkit
-https://github.com/puku0x/todo-react
-- Vue.js + Vuex
-https://github.com/puku0x/todo-vue
-
-### Others
 - Designing a fast, scalable and robust frontend architecture
+- Basic knowledge of HTML
+- CSS and SCSS
+- JavaScript and TypeScript
+- Angular + NgRx
+  https://github.com/puku0x/todo-angular
+- React + Redux Toolkit
+  https://github.com/puku0x/todo-react
+- Vue.js + Vuex
+  https://github.com/puku0x/todo-vue
 - Writing tests with Jasmine / Karma / Jest / Cypress
 - Building CI/CD pipeline with GitHub Actions
 
