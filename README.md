@@ -1,6 +1,18 @@
+<!-- load the polyfill, if necessary -->
+<script src="https://unpkg.com/@webcomponents/webcomponentsjs@2.0.0/webcomponents-bundle.js"></script>
+
+<!-- then load the element from unkpg -->
+<script src="https://unpkg.com/@pearlbea/better-img@1.4.0/src/better-img/better-img.min.js"></script>
+
+<better-img
+  url="https://placeimg.com/480/640/animals"
+  fallback="https://lorempixel.com/480/640"
+  alt="an adorable animal">
+</better-img>
+
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=puku0x&show_icons=true&count_private=true&line_height=20" />
+<img src="https://hogehoge.fugafuga/foobar.png" onerror="this.src='https://1.bp.blogspot.com/-lGOEBC53sNk/WvQHXNpNfiI/AAAAAAABL6I/EF8b66sqJicObf9JkISl-cuvfc5m4EUrACLcBGAs/s800/internet_404_page_not_found_j.png'; this.removeAttribute('onerror')">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puku0x&layout=compact" />
