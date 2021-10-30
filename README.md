@@ -11,13 +11,13 @@
 
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=puku0x" width="270px" />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=puku0x&theme=default" width="270px" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=puku0x" width="270px" />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=puku0x&theme=default" width="270px" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=puku0x" width="270px" />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=puku0x&theme=default" width="270px" />
   </a>
 </div>
 
