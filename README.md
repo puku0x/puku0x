@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=puku0x&show_icons=true&count_private=true&line_height=20" height="158px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=puku0x&show_icons=true&count_private=true&line_height=20" height="158px" align="center" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puku0x&layout=compact" height="158px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puku0x&layout=compact" height="158px" align="center" />
   </a>
 </div>
 
@@ -11,13 +11,13 @@
 
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=puku0x&theme=default" width="270px" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=puku0x&theme=default" width="270px" align="center" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=puku0x&theme=default" width="270px" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=puku0x&theme=default" width="270px" align="center" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=puku0x&theme=default" width="270px" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=puku0x&theme=default" width="270px" align="center" />
   </a>
 </div>
 
@@ -25,7 +25,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=puku0x&column=8&no-frame=true&margin-w=5" />
+    <img src="https://github-profile-trophy.vercel.app/?username=puku0x&column=8&no-frame=true&margin-w=5" align="center" />
   </a>
 </div>
 
