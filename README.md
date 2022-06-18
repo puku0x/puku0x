@@ -17,7 +17,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=puku0x&theme=default" width="270px" align="center" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=puku0x&theme=default" width="270px" align="center" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=puku0x&theme=default&utcOffset=8" width="270px" align="center" />
   </a>
 </div>
 
