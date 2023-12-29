@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=puku0x&show_icons=true&count_private=true&line_height=20" height="158px" align="center" />
+    <img src="https://github-readme-stats-eight-zeta-31.vercel.app/api?username=puku0x&show_icons=true&count_private=true&line_height=20" height="158px" align="center" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puku0x&layout=compact" height="158px" align="center" />
+    <img src="https://github-readme-stats-eight-zeta-31.vercel.app/api/top-langs/?username=puku0x&layout=compact" height="158px" align="center" />
   </a>
 </div>
 
@@ -33,7 +33,7 @@
 
 ## Hi there! 👋
 
-I am a software developer at [Findy Inc.](https://findy.co.jp/) working on [Findy](https://findy-code.io/) and [Findy Teams](https://findy-teams.com/).
+I am a software developer at [Findy Inc.](https://findy.co.jp/) working on [Findy](https://findy-code.io/) and [Findy Team+](https://findy-team.io/).
 
 I like developing web frontend applications and love to contribute to OSSs like [Nx](https://nx.dev/).
 
