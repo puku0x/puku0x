@@ -25,7 +25,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=puku0x&column=8&no-frame=true&margin-w=5" align="center" />
+    <img src="https://github-profile-trophy-delta-eight.vercel.app/?username=puku0x&column=8&no-frame=true&margin-w=5" align="center" />
   </a>
 </div>
 
